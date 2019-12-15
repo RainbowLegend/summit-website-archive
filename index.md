@@ -13,7 +13,7 @@
 ---
 
 <h3 align="center">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform">Ordering Form / Opens 10:00 AM PT / 12-14-19</a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform">Ordering Form / Opens 10:00 AM PT / 12-21-19</a>
   <br>
   <a href="https://summitcables.com/calculator">Price Calculator</a>
   <br>
@@ -51,11 +51,11 @@ We are currently taking orders using a Google Form which opens up every Saturday
 
 > Keep in mind that all times are subject to change. In the event of any changes, an announcement will be posted in the Summitcables Discord.
 
-| Dec 14                            | Dec 21       | Dec 28       |
-|:---------------------------------:|:------------:|:------------:|
-| LE Supernova<br>LE Dracula (cont.)| LE Nebula R2 | TBA          |
-| All options                       | All options  | TBA          |
-| 50 units                          | 50 units     | TBA          |
+| Dec 21st     | Dec 28th    | Jan 4th      |
+|:------------:|:-----------:|:------------:|
+| LE Nebula R2 | TBA         | TBA          |
+| All options  | TBA         | TBA          |
+| 50 units     | TBA         | TBA          |
 
 # Terms of Service
 
