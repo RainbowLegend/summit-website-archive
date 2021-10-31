@@ -1,2 +1,5 @@
 # SUMMITCABLES WEBSITE
-is now deprecated. Visit the site at https://rosecables.com/
+is now deprecated.
+
+
+Project serves as previous work done.
